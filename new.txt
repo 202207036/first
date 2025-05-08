@@ -1,4 +1,9 @@
-total 50
+t
+
+
+
+asdasdasd
+new fileotal 50
 drwxr-xr-x 1 YUHAN 197121     0 May  8 14:33 ./
 drwxr-xr-x 1 YUHAN 197121     0 Apr 17 14:47 ../
 drwxr-xr-x 1 YUHAN 197121     0 May  8 14:32 .git/
